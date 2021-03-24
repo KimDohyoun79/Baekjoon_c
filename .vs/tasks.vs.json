@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-2439_별찍기2",
+      "appliesTo": "star/2439_별찍기2.c",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-2438_별찍기1",
+      "appliesTo": "star/2438_별찍기1.c",
+      "type": "launch"
+    }
+  ]
+}
